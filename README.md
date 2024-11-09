@@ -1,4 +1,6 @@
 ## Hi there I'm Owen👋
+ - I'm currently studying Computer Engineering at the University of British Columbia
+
 
 <!--
 **Owen-Wangg/Owen-Wangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
